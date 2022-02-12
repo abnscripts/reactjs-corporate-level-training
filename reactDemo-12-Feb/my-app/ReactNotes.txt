@@ -1,0 +1,44 @@
+ReactJs Demo Session
+
+Pre-requesites
+
+ js
+ html
+ css
+ es6 
+  
+
+
+What is React:Js library to create a reusable or interactive 
+UI component or you can UI
+Facebook has developed the react js 2012. 
+
+
+React Component:
+
+Functional Component, stateless compoent
+Class Component, stateful, contaoner compoennt
+
+Hooks is new functionality in react 15 and above to use the feature of the REACT 
+Inside functional compoent
+
+useState
+useEffect
+useSelector
+useDispatch
+custom hooks
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
